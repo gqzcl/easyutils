@@ -8,7 +8,7 @@ import (
 	"github.com/iris-contrib/blackfriday"
 	"github.com/sirupsen/logrus"
 
-	"github.com/mlogclub/simple"
+	"github.com/gqzcl/simple"
 )
 
 // option
